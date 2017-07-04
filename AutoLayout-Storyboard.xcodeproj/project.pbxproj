@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					3003E4DD1F0C230C000F8A1B = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 4KJC5XPKL6;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -274,6 +275,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4KJC5XPKL6;
 				INFOPLIST_FILE = "AutoLayout-Storyboard/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.samog.AutoLayout-Storyboard";
@@ -285,6 +287,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4KJC5XPKL6;
 				INFOPLIST_FILE = "AutoLayout-Storyboard/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.samog.AutoLayout-Storyboard";
